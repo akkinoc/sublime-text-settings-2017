@@ -1,2 +1,7 @@
+Installed Packages/
 Local/
+Packages/*
+!Packages/User
+Packages/User/Package Control.cache/
+Packages/User/Package Control.last-run
 
