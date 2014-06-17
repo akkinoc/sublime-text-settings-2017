@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"ConvertToUTF8",
 		"IMESupport"
 	]
 }

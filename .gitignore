@@ -2,6 +2,7 @@ Installed Packages/
 Local/
 Packages/*
 !Packages/User
+Packages/User/encoding_cache.json
 Packages/User/Package Control.cache/
 Packages/User/Package Control.last-run
 
