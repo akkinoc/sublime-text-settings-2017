@@ -3,6 +3,7 @@
 	[
 		"ConvertToUTF8",
 		"IMESupport",
-		"Japanize"
+		"Japanize",
+		"Markdown Extended"
 	]
 }
