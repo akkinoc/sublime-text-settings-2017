@@ -1,9 +1,9 @@
 /*/
 !/Packages/
 /Packages/*
+!/Packages/Default/
 !/Packages/User/
 /Packages/User/encoding_cache.json
-/Packages/User/Main.sublime-menu
 /Packages/User/Package Control.cache/
 /Packages/User/Package Control.ca-bundle
 /Packages/User/Package Control.ca-certs/
