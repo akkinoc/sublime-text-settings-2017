@@ -1,4 +1,9 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"ConvertToUTF8",
@@ -7,6 +12,7 @@
 		"JavaPropertiesEditor",
 		"Local History",
 		"Markdown Extended",
+		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
 		"Table Editor"
