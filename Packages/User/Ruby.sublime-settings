@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"Vagrantfile"
-	]
+    "extensions":
+    [
+        "Vagrantfile"
+    ],
+    "tab_size": 2
 }

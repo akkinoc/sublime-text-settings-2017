@@ -1,7 +1,7 @@
 {
-	"enable_table_editor": true,
-	"extensions":
-	[
-		"md"
-	]
+    "enable_table_editor": true,
+    "extensions":
+    [
+        "md"
+    ]
 }
