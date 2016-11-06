@@ -1,6 +1,7 @@
 {
     "extensions":
     [
+        "jst",
         "hbs"
     ]
 }
